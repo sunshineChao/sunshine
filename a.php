@@ -1,2 +1,2 @@
 <?php
-	echo 'aaaaaaaaaaaaa';
+	echo '刘超是个大帅哥';
